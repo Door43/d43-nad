@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nad:home|Door43 (nad)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nad|d43-nad repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nad/archive/master.zip|d43-nad.zip]]
+
+**Recent Changes**
+{{changes>ns = nad}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nad|Ethnologue data]]
+
